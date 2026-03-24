@@ -2,31 +2,31 @@
 
 ## 📌 Overview
 
-This project implements a machine learning-based transliteration system that converts English text into Odia script and vice versa. The model focuses on character-level phonetic mapping to ensure accurate and consistent transliteration.
+This project implements a machine learning-based transliteration system that converts English text into Odia script and vice versa. The model focuses on **phonetic mapping at the character level**, enabling accurate script conversion.
 
 ## 🚀 Features
 
-* Bidirectional transliteration (English ↔ Odia)
-* Character-level phonetic mapping
-* Multiple machine learning models implemented and compared
-* Performance evaluation using Accuracy and Character Error Rate (CER)
+* Character-level transliteration
+* Supports bidirectional conversion (English ↔ Odia)
+* Multiple ML models implemented and compared
+* Evaluation using accuracy and Character Error Rate (CER)
 
 ## 🧠 Methodology
 
 * Collected and preprocessed English–Odia word pairs
-* Applied encoding techniques (one-hot encoding, label encoding)
+* Applied encoding techniques (one-hot, label encoding)
 * Trained multiple ML models:
 
   * Decision Tree
   * Random Forest
   * AdaBoost
-  * K-Nearest Neighbors (KNN)
-  * Linear Discriminant Analysis (LDA)
-* Evaluated models using Accuracy, Precision, Recall, F1-score, and CER
+  * KNN
+  * LDA
+* Evaluated using Accuracy, Precision, Recall, F1-score, CER
 
 ## 📊 Results
 
-* Random Forest achieved the highest accuracy: **94.25%**
+* Random Forest achieved highest accuracy: **94.25%**
 * Ensemble models outperformed individual classifiers
 * Character-level modeling improved phonetic accuracy
 
@@ -35,23 +35,15 @@ This project implements a machine learning-based transliteration system that con
 * Python
 * NumPy, Pandas
 * Scikit-learn
-* Matplotlib, Seaborn
+* Matplotlib / Seaborn
 * Jupyter Notebook
 
 ## 📂 Project Structure
 
-```
-english-odia-transliteration-ml/
- ├── data/
- ├── src/
- ├── notebooks/
- │    └── transliteration.py
- ├── results/
- │    ├── output.txt
- │    └── graph.pdf
- ├── README.md
- ├── requirements.txt
-```
+* `data/` – Dataset files
+* `src/` – Model & preprocessing code
+* `notebooks/` – Experiments and analysis
+* `results/` – Output and evaluation results
 
 ## ▶️ How to Run
 
@@ -60,15 +52,15 @@ pip install -r requirements.txt
 python src/model.py
 ```
 
-## 📌 Applications
+## 📌 Future Improvements
 
-* Educational tools for learning Odia language
-* Government and administrative systems
-* Social media text conversion
-* Localization of software and websites
+* Implement LSTM / Transformer models
+* Increase dataset size
+* Deploy as web application
 
-## 🔮 Future Improvements
+## 💡 Applications
 
-* Implement deep learning models (LSTM, Transformers)
-* Expand dataset for better accuracy
-* Deploy as a web application
+* Educational tools for learning Odia
+* Government documentation systems
+* Social media transliteration
+* Localization of apps/websites
