@@ -42,13 +42,15 @@ This project implements a machine learning-based transliteration system that con
 
 ```
 english-odia-transliteration-ml/
-│── data/
-│── src/
-│   └── model.py
-│── notebooks/
-│── results/
-│── README.md
-│── requirements.txt
+ ├── data/
+ ├── src/
+ ├── notebooks/
+ │    └── transliteration.py
+ ├── results/
+ │    ├── output.txt
+ │    └── graph.pdf
+ ├── README.md
+ ├── requirements.txt
 ```
 
 ## ▶️ How to Run
