@@ -1,8 +1,0 @@
-Model: Random Forest
-Accuracy: 94.25%
-
-Other Models:
-Decision Tree: 88.4%
-AdaBoost: 92.8%
-KNN: 86.5%
-LDA: 84.9%
