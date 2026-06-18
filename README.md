@@ -1,8 +1,10 @@
 # ✦ LinguaSync AI — English ↔ Odia Transliteration
 
-![LinguaSync AI Logo](assets/logo.png)
-
-![English-Odia Transliteration](assets/banner.png)
+<p align="center">
+  <img src="./assets/logo.png" width="120" alt="LinguaSync AI Logo" />
+  <br />
+  <img src="./assets/banner.png" width="100%" alt="English-Odia Transliteration" />
+</p>
 
 <div align="center">
 
