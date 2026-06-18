@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="LinguaSync AI Logo" width="120"/>
+![LinguaSync AI Logo](./assets/logo.png)
 
-<br/>
-
-<img src="assets/banner.png" alt="English-Odia Transliteration" width="100%"/>
+![English-Odia Transliteration](./assets/banner.png)
 
 # ✦ LinguaSync AI — English ↔ Odia Transliteration
 
@@ -336,8 +334,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-[![Stars](https://img.shields.io/github/stars/your-username/english-odia-transliteration-ml?style=social)](https://github.com/Anoop-9/english-odia-transliteration-ml)
+[![Stars](https://img.shields.io/github/stars/your-username/english-odia-transliteration-ml?style=social)](https://github.com/your-username/english-odia-transliteration-ml)
 &nbsp;&nbsp;
-[![Forks](https://img.shields.io/github/forks/your-username/english-odia-transliteration-ml?style=social)](https://github.com/Anoop-9/english-odia-transliteration-ml)
+[![Forks](https://img.shields.io/github/forks/your-username/english-odia-transliteration-ml?style=social)](https://github.com/your-username/english-odia-transliteration-ml)
 
 </div>
