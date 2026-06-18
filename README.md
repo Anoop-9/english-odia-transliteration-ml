@@ -1,10 +1,10 @@
-<div align="center">
+# ✦ LinguaSync AI — English ↔ Odia Transliteration
 
 ![LinguaSync AI Logo](./assets/logo.png)
 
 ![English-Odia Transliteration](./assets/banner.png)
 
-# ✦ LinguaSync AI — English ↔ Odia Transliteration
+<div align="center">
 
 ### *Machine Learning-Powered Cross-Script Transliteration System*
 
@@ -337,5 +337,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 [![Stars](https://img.shields.io/github/stars/your-username/english-odia-transliteration-ml?style=social)](https://github.com/your-username/english-odia-transliteration-ml)
 &nbsp;&nbsp;
 [![Forks](https://img.shields.io/github/forks/your-username/english-odia-transliteration-ml?style=social)](https://github.com/your-username/english-odia-transliteration-ml)
-
-</div>
